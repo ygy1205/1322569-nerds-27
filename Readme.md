@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Александр](https://up.htmlacademy.ru/htmlcss/27/user/1322569).
-* Наставник: `Неизвестно`.
+* Наставник:[Сергей Зубов] (https://htmlacademy.ru/profile/serj)
 
 ---
 
